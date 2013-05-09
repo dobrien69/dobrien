@@ -1,3 +1,6 @@
 (function(){
 	something
 })();
+
+();
+woo!
